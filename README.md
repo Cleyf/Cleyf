@@ -26,9 +26,3 @@ Apaixonado por tecnologia, e por história.
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleyfson-angelo-da-silva-608a68226/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleyfsonnen/)
   
-</div>
-         ![snake animation](https://github.com/Cleyf/Cleyf/blob/output/github-contribution-grid-snake.svg)
-</div >
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Cleyf&repo=Cleyf&theme=react)](https://github.com/Cleyf/Cleyf)
-         
